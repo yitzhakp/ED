@@ -1,3 +1,15 @@
+Propiedad
+	1, nombre, venta, renta
+Carta cofre
+	2, pago(positivo si recibe, negativa si da), a quien(1 si al banco, 2 a todos los jugadores)
+Carta fortuna
+	3, carcel( 1 si es para salir, -1 si es para entrar), 
+4: Inicio
+5: carcel
+6: a la carcel
+7: impuestos
+8: random
+
 Cosas por hacer:
 
 1. Crear archivo con las casillas
@@ -6,3 +18,4 @@ Cosas por hacer:
 4. Crear imágenes de las cartas (Propiedad, Cofre, Fortuna)
 5. Crear imágenes de billetes (200, 100, 50, 20, 10, 5, 2, 1)
 6. Crear fichas (Jugador, "casas y hoteles")
+7. 
