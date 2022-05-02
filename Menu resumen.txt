@@ -1,0 +1,50 @@
+Casas: profesores pregrado
+Hoteles: profesores postgrado
+Impuestos: ICETEX y Financiamiento Estudiantil
+Fortuna: Cree.
+Cofre: bienestar universitario.
+Servicios públicos: KM5 y Grafique.
+Estaciones: DuNord plaza, express, 1966, terraza.
+Free parking:  casa estudio (hora libre)
+Cárcel: A clase
+
+Monopolios:
+  Grupo 1: 
+    Geologia
+    Matematica
+    Ciencia de datos
+    
+  Grupo 2: 
+    Comunicación social
+    Lenguas modernas y cultura
+    Filosofia y humanidades
+    
+  Grupo 3:
+    Diseño Grafico
+    Arquitectura
+    Musica
+    
+  Grupo 4:
+    Derecho
+    Contaduria Publica
+    Ciencias Politicas y Gobierno
+    
+  Grupo 5:
+    Ciencia de Datos
+    Ing Electronica
+    Ing de Sistemas y Computación
+    
+  Grupo 6:
+    Ing Civil
+    Ing Industrial
+    Ing Mecanica
+    
+  Grupo 7:
+    Negocios Internacionales
+    Relaciones Internacionales
+    Administración de Empresas
+  
+  Grupo 8:
+    Enfermeria
+    Odontologia
+    Medicina
