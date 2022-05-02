@@ -29,7 +29,7 @@ Monopolios:
     Ciencias Politicas y Gobierno
     
   Grupo 5:
-    Ciencia de Datos
+    Ing Electrica
     Ing Electronica
     Ing de Sistemas y Computación
     
