@@ -9,15 +9,14 @@ Free parking:  casa estudio (hora libre)
 Cárcel: A clase
 
 Monopolios:
-  Grupo 1: 
+  Grupo 1:
+    Comunicación social
+    Lenguas modernas y cultura
+    
+  Grupo 2: 
     Geologia
     Matematica
     Ciencia de datos
-    
-  Grupo 2: 
-    Comunicación social
-    Lenguas modernas y cultura
-    Filosofia y humanidades
     
   Grupo 3:
     Diseño Grafico
@@ -40,11 +39,10 @@ Monopolios:
     Ing Mecanica
     
   Grupo 7:
-    Negocios Internacionales
-    Relaciones Internacionales
-    Administración de Empresas
-  
-  Grupo 8:
     Enfermeria
     Odontologia
     Medicina
+  
+  Grupo 8:
+    Negocios InternacionaleS
+    Administración de Empresas
