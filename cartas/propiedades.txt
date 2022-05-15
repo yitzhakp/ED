@@ -1,0 +1,304 @@
+Lenguas Modernas
+Precio $60
+Alquiler $2
+Con 1 Tutor $10
+Con 2 Tutores 30
+Con 3 Tutores 90
+Con 4 Tutores 160
+Con PROFESOR $250.
+Valor Hipoteca $30.
+Coste Tutores $50. ademas
+Profesor, $50. más 4 Tutores
+
+-----
+
+Comunicación Social
+Precio $60
+Alquiler $4
+Con 1 Tutor $20
+Con 2 Tutores 60
+Con 3 Tutores 180
+Con 4 Tutores 320
+Con PROFESOR $450.
+Valor Hipoteca $30.
+Coste Tutores $50. ademas
+Profesor, $50. más 4 Tutores
+
+-----
+
+Ciencia de datos
+Precio $100
+Alquiler $6
+Con 1 Tutor $30
+Con 2 Tutores 90
+Con 3 Tutores 270
+Con 4 Tutores 400
+Con PROFESOR $550.
+Valor Hipoteca $50.
+Coste Tutores $50. ademas
+Profesor, $50. más 4 Tutores
+
+-----
+
+Geología
+Precio $100
+Alquiler $6
+Con 1 Tutor $30
+Con 2 Tutores 90
+Con 3 Tutores 270
+Con 4 Tutores 400
+Con PROFESOR $550.
+Valor Hipoteca $50.
+Coste Tutores $50. ademas
+Profesor, $50. más 4 Tutores
+
+-----
+
+Matemáticas
+Precio $120
+Alquiler $8
+Con 1 Tutor $40
+Con 2 Tutores 100
+Con 3 Tutores 300
+Con 4 Tutores 450
+Con PROFESOR $600.
+Valor Hipoteca $50.
+Coste Tutores $50. ademas
+Profesor, $50. más 4 Tutores
+
+-----
+
+Diseño Gráfico
+Precio $140
+Alquiler $10
+Con 1 Tutor $50
+Con 2 Tutores 150
+Con 3 Tutores 450
+Con 4 Tutores 625
+Con PROFESOR $750.
+Valor Hipoteca $70.
+Coste Tutores $100. ademas
+Profesor, $100. más 4 Tutores
+
+-----
+
+Música
+Precio $140
+Alquiler $10
+Con 1 Tutor $50
+Con 2 Tutores 150
+Con 3 Tutores 450
+Con 4 Tutores 625
+Con PROFESOR $750.
+Valor Hipoteca $70.
+Coste Tutores $100. ademas
+Profesor, $100. más 4 Tutores
+
+-----
+
+Arquitectura
+Precio $160
+Alquiler $12
+Con 1 Tutor $60
+Con 2 Tutores 180
+Con 3 Tutores 500
+Con 4 Tutores 700
+Con PROFESOR $900.
+Valor Hipoteca $80.
+Coste Tutores $100. ademas
+Profesor, $100. más 4 Tutores
+
+-----
+
+Derecho
+Precio $180
+Alquiler $14
+Con 1 Tutor $70
+Con 2 Tutores 200
+Con 3 Tutores 550
+Con 4 Tutores 750
+Con PROFESOR $950.
+Valor Hipoteca $90.
+Coste Tutores $100. ademas
+Profesor, $100. más 4 Tutores
+
+-----
+
+Contaduría Pública
+Precio $180
+Alquiler $14
+Con 1 Tutor $70
+Con 2 Tutores 200
+Con 3 Tutores 550
+Con 4 Tutores 750
+Con PROFESOR $950.
+Valor Hipoteca $90.
+Coste Tutores $100. ademas
+Profesor, $100. más 4 Tutores
+
+-----
+
+Política y gobierno
+Precio $200
+Alquiler $16
+Con 1 Tutor $80
+Con 2 Tutores 220
+Con 3 Tutores 600
+Con 4 Tutores 800
+Con PROFESOR $1000.
+Valor Hipoteca $100.
+Coste Tutores $100. ademas
+Profesor, $100. más 4 Tutores
+
+-----
+
+Ing eléctrica
+Precio $220
+Alquiler $18
+Con 1 Tutor $90
+Con 2 Tutores 250
+Con 3 Tutores 700
+Con 4 Tutores 875
+Con PROFESOR $1050.
+Valor Hipoteca $110.
+Coste Tutores $150. ademas
+Profesor, $150. más 4 Tutores
+
+-----
+
+Ing Electrónica
+Precio $220
+Alquiler $18
+Con 1 Tutor $90
+Con 2 Tutores 250
+Con 3 Tutores 700
+Con 4 Tutores 875
+Con PROFESOR $1050.
+Valor Hipoteca $110.
+Coste Tutores $150. ademas
+Profesor, $150. más 4 Tutores
+
+-----
+
+Ing de Sistemas
+Precio $240
+Alquiler $20
+Con 1 Tutor $100
+Con 2 Tutores 300
+Con 3 Tutores 750
+Con 4 Tutores 925
+Con PROFESOR $1100.
+Valor Hipoteca $120.
+Coste Tutores $150. ademas
+Profesor, $150. más 4 Tutores
+
+-----
+
+Ing Civil
+Precio $260
+Alquiler $22
+Con 1 Tutor $110
+Con 2 Tutores 330
+Con 3 Tutores 800
+Con 4 Tutores 975
+Con PROFESOR $1150.
+Valor Hipoteca $130.
+Coste Tutores $150. ademas
+Profesor, $150. más 4 Tutores
+
+-----
+
+Ing Industrial
+Precio $260
+Alquiler $22
+Con 1 Tutor $110
+Con 2 Tutores 330
+Con 3 Tutores 800
+Con 4 Tutores 975
+Con PROFESOR $1150.
+Valor Hipoteca $130.
+Coste Tutores $150. ademas
+Profesor, $150. más 4 Tutores
+
+-----
+
+Ing Mecánica
+Precio $280
+Alquiler $24
+Con 1 Tutor $120
+Con 2 Tutores 360
+Con 3 Tutores 850
+Con 4 Tutores 1025
+Con PROFESOR $1200.
+Valor Hipoteca $140.
+Coste Tutores $150. ademas
+Profesor, $150. más 4 Tutores
+
+-----
+
+Enfermeria
+Precio $300
+Alquiler $26
+Con 1 Tutor $130
+Con 2 Tutores 390
+Con 3 Tutores 900
+Con 4 Tutores 1100
+Con PROFESOR $1275.
+Valor Hipoteca $150.
+Coste Tutores $200. ademas
+Profesor, $200. más 4 Tutores
+
+-----
+
+Odontología
+Precio $300
+Alquiler $26
+Con 1 Tutor $130
+Con 2 Tutores 390
+Con 3 Tutores 900
+Con 4 Tutores 1100
+Con PROFESOR $1275.
+Valor Hipoteca $150.
+Coste Tutores $200. ademas
+Profesor, $200. más 4 Tutores
+-----
+
+Medicina
+Precio $320
+Alquiler $28
+Con 1 Tutor $150
+Con 2 Tutores 390
+Con 3 Tutores 900
+Con 4 Tutores 1200
+Con PROFESOR $1400.
+Valor Hipoteca $160.
+Coste Tutores $200. ademas
+Profesor, $200. más 4 Tutores
+
+-----
+
+Neg Internacionales
+Precio $350
+Alquiler $35
+Con 1 Tutor $175
+Con 2 Tutores 500
+Con 3 Tutores 1100
+Con 4 Tutores 1300
+Con PROFESOR $1500.
+Valor Hipoteca $175.
+Coste Tutores $200. ademas
+Profesor, $200. más 4 Tutores
+
+-----
+
+adm de empresas
+Precio $400
+Alquiler $50
+Con 1 Tutor $175
+Con 2 Tutores 500
+Con 3 Tutores 1100
+Con 4 Tutores 1700
+Con PROFESOR $2000.
+Valor Hipoteca $200.
+Coste Tutores $200. ademas
+Profesor, $200. más 4 Tutores
