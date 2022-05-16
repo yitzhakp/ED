@@ -4,7 +4,7 @@ Tu esfuerzo por enseñar a unos estudiantes de primer semestre tiene una recompe
 "Avanza hasta ""Salida"" (Cobrar $200)";3;200;
 Ve a clase sin pasar por la casilla de salida y sin cobrar los $200;4;1;
 Tienes una multa en biblioteca, pagas $50;1;-50;
-Retrocede a Du Nord Plaza;3;0;
+Compraste un souvenir en Mapuka. Pagas $20;1;-20;
 La Universidad te devuelve $100;2;100;
 El profesor canceló su clase, puedes salir de la clase gratuitamente. (Puedes vender o conservar esta tarjeta hasta que la necesites);4;-1;
 Comienzas a vender comida a los estudiantes, ganas $10;2;10;
@@ -19,7 +19,7 @@ Te encontraste $50 tirados en los pasillos y no había nadie. Te los quedas;2;50
 Hubo un error en cobros. Recibes $100;2;100;
 Le debes a tus amigos. Paga a cada jugador $20.;1;-20;
 Te piden que colabores para una actividad. Contribuyes con $100;1;-100;
-Avanza hasta Ingeniería en Sistemas;3;0;
+La Universidad te pide una donación. Contribuyes con $150;1;-150;
 Recibiste un cupón para Du Nord Store. Obtienes $10;2;10;
 Tus Notas son sobresalientes. Recibes $60;2;60;
 Te atrasaste en una devolución de préstamo. Pagas $15 por concepto de multa.;1;-15;
