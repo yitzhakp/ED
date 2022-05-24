@@ -181,7 +181,7 @@ void devolver(int valor){
 }
 
 void move(int d){
-    for(int i = 1; i <= d; i++){
+    for(int i = 1; i <= 30; i++){
       this.pos = this.pos.next;
       if(this.pos == go){
           this.devolver(200);

@@ -146,7 +146,7 @@ void draw(){
 
 
 void dra(){
-background(0);
+      background(0);
       image(loadImage("tablero.png"), 0, 0);
       text("Jugador #"+current.number,1330, 50);
       stroke(0);
@@ -188,6 +188,7 @@ void carta (String tipo, String text1, String text2, int sw){
            image(loadImage("si.png"), 340, 500);
             car = 1;
    }else{
+               
               car = 2;
               wait1 = true;
               image(loadImage("si.png"), 340, 500);
@@ -264,22 +265,28 @@ if(mode == 1){
         current.carcel =current.carcel-2;
         if(current.carcel >=0){
         carta("bienestar", "Haz gastado una carta para salir libre","No se te saltará el turno", 0);
-        sw4 = true;
+        
         }else{
         carta("bienestar", "Estás en una clase","No podrás jugar en la siguiente ronda", 0);
         }
         gojail = false;
-        
+        car = 0;
       }else if(pago){
       pagos(actual.alquiler(), true);
+      wait1 = false;
       }else if (impuesto){
       pagos(im.pago, false);
+      wait1 = false;
       }else if(car == 1){
       pagos(cart.quan, false);
+      wait1 = false;
       }else if(car ==2){
       current.devolver(cart.quan);
+      wait1 = false;
+      }else{
+      wait1 = false;
       }
-        wait1 = false;
+        
       
       
       }
