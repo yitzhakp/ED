@@ -1,0 +1,27 @@
+Tus compañeros quieren iniciar una recolecta; Contribuyes con $50;-1;50
+Tu esfuerzo por enseñar tiene una recompensa; Recibes $50;0;50
+Tienes una multa en biblioteca; Pagas $50;-1;50
+Compraste un souvenir en Mapuka; Pagas $20;-1;20
+La Universidad te devuelve $100;;2;100
+Comienzas a vender comida a los estudiantes;Ganas $10;0;10
+Tienes que pagar créditos extras;Pagas $200;-1;200
+Te quedaste sin lápiz por lo que compras uno;Pagas $10;-1;10
+Tu grupo estudiantil te pide una contribución;Aportas $80;-1;80
+Te ofreciste a enseñarle a un amigo;Recibes $50;0;50
+KM5 te regaló unas agendas;Las vendes por $10;0;10
+Hubo un error en cobros;Recibes $100;0;100
+Te piden que colabores para una actividad; Contribuyes con $100;-1;100
+La Universidad te pide una donación;Contribuyes con $150;-1;150
+Recibiste un cupón para Du Nord Store; Obtienes $10;0;10
+Tus Notas son sobresalientes;Recibes $60;0;60
+Te atrasaste en una devolución de préstamo; Pagas $15 de multa;-1;15
+Rompiste un equipo del laboratorio;Pagas $150;-1;150
+Encontraste un cargador perdido y se lo devolviste al dueño;Recibes $30;0;30
+Te compraste un libro;Pagas $50;-1;50
+Vas mal y necesitas un tutor privado; Lo contratas por $100;-1;100
+La Universidad te da un premio por ser el mejor estudiante;Ganas $200;0;200
+Tienes que imprimir un ensayo;Pagas $5;-1;5
+Multa por dañar un libro de la Biblioteca;Pagas $70;-1;70
+Te compras un snack en La esquina;Pagas $5;-1;5
+Ve a clase;;4;-1
+El profesor canceló su clase;Puedes salir de la clase libremente;4;1
