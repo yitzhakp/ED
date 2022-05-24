@@ -196,7 +196,6 @@ Jugador P = new Jugador(d, n);
   if(head == null){
 head = P;
 }else if (P.turno > head.turno){
-  print("val");
   P.prev = head.prev;
   P.next = head;
   head.prev.next = P;
@@ -219,7 +218,6 @@ Q = Q.next;
 }while(Q != head & sw);
 
 if(sw){
-  print("hola");
  P.prev = head.prev;
  P.next = head;
  head.prev.next = P;

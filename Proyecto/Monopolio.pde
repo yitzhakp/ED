@@ -108,17 +108,17 @@ void draw(){
       }else if(pago){
             sw4 = false;
             if(wait2){
-            carta("bienestar","Caíste en la propiedad de otro jugador", "Pagarás "+actual.alquiler(), -1);
+            carta("banco","Caíste en la propiedad de otro jugador", "Pagarás "+actual.alquiler(), -1);
             }
       }else if(impuesto){
             sw4 = false;
             if(wait2){
-            carta("bienestar","Caíste en una casilla de impuesto","Pagarás "+im.pago, -1 );
+            carta("banco","Caíste en una casilla de impuesto","Pagarás "+im.pago, -1 );
             }
       }else if(gojail){
             sw4 = false;
             if(wait2){
-              carta("bienestar","Irás a la carcel", "", 0);
+              carta("cree","Irás a una clase", "", 0);
             }
             if(cree){
             cree = false;
@@ -206,10 +206,10 @@ void carta (String tipo, String text1, String text2, int sw){
 void pagos(int amount, boolean sw ){
   if(amount>current.getMoney()){
       if(current.numP >1){
-        carta("bienestar", "No tienes suficiente dinero","Vende unas de tus propiedades", 0);
+        carta("banco", "No tienes suficiente dinero","Vende unas de tus propiedades", 0);
        }
       else{
-        carta("bienestar","No tienes suficiente dinero, perdiste", "",0);
+        carta("banco","No tienes suficiente dinero, perdiste", "",0);
         
         if(sw){
           actual.propietario.devolver(current.getMoney()); 
@@ -301,7 +301,7 @@ if(mode == 1){
            compra = false;
            sw4 = true;
          }else{
-           carta("bienestar", "No tienes suficiente dinero","Vende unas de tus propiedades", 0);
+           carta("banco", "No tienes suficiente dinero","Vende unas de tus propiedades", 0);
          }
          
        }else if(mouseX > 1300 && mouseX < 1370 && mouseY>900 && mouseY<950){
