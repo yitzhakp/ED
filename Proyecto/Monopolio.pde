@@ -81,7 +81,8 @@ void draw(){
       } 
   }else if (mode == 4){
   background(0);
-  text(current.number+" es el ganador", 100,100);
+  textAlign(CENTER);
+  text(current.number+" es el ganador", displayWidth/2, displayHeight/2);
   }
   
   if(mode == 3 && sw2 && !change && !wait1){
